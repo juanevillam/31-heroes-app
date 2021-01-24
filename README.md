@@ -3,7 +3,7 @@
 > Juan Villa
 
 # IMPORTANT!
-To see on live the app that I already created go to the following link :point_right:[Gif App](https://juanevillam.github.io/29-heroes-app/):point_left:
+To see on live the app that I already created go to the following link :point_right:[Gif App](https://juanevillam.github.io/31-heroes-app/):point_left:
 
 ## Development Server
 Remember run `npm install` for get ready with the node_modules on your PC!
