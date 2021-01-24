@@ -19,7 +19,7 @@ export const Navbar = () => {
     };
 
     return (
-        <div className="fixed-top">
+        <div className="fixed-top animate__animated animate__fadeIn">
             <div className="collapse" id="navbarToggleExternalContent">
             <div className="bg-dark p-4">
             <Link className="navbar-brand text-white" to="/">HeroesApp</Link>
