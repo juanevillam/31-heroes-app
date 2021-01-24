@@ -1,5 +1,5 @@
 # Information
-:rocket: :rocket: :rocket: *Hi, I'm Juan Villa and here is a SPA with React, about Heroes de Marvel and DC! I did a little authentication when you log in and that's it*  :rocket: :rocket: :rocket:
+:rocket: :rocket: :rocket: *Hi, I'm Juan Villa and here is a SPA with React, about Heroes de Marvel and DC! I did a little authentication when you are logging in and that's it*  :rocket: :rocket: :rocket:
 > Juan Villa
 
 # IMPORTANT!
