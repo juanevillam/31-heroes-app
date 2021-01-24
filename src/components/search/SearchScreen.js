@@ -24,11 +24,11 @@ export const SearchScreen = ( { history } ) => {
     };
 
     return (
-        <div className="animate__animated animate__fadeIn">
+        <div>
             <h1>Search Screen</h1>
             <hr />
             
-            <div className="row">
+            <div className="row animate__animated animate__fadeIn">
                 
                 <div className="col-5">
                     <h4> Search Form </h4>
